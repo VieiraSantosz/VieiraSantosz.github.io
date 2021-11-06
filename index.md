@@ -1,15 +1,24 @@
-<h2> Champions League </h2>
+<h1> Champions League </h1>
 
-Liverpool x Atletico de Madrid. [Resultado](https://www.google.com/search?q=champions+league&rlz=1C1OKWM_pt-brBR965BR965&oq=cha&aqs=chrome.0.69i59j46i131i433i512j69i57j46i433i512j0i512j69i61l2j69i60.896j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11qghtyn5n;2;/m/0c1q0;dt;fp;1;;)
+<strong> MELHOR JOGO DA RODADA! </strong> <h3> Liverpool x Atletico de Madrid deram um show no jogo do dia 03/11. </h3> [Confira os melhores momentos.](https://www.youtube.com/watch?v=EipAtzaSTqA)
 
-### Alguns jogos de hoje.
+<h1> Resultados de outros jogos. </h1>
 
-Champions League 03/11/2021.
+<strong> Champions League 03/11/2021. </strong>
 
 ```markdown
-PSG x RB Leipzig - 2 a 2
-Bayern x Benfica - 5 a 2
-Ajax x Borussia - 3 a 1
+<h2> Jogos das 14:45. </h2>
+<h3> 	Chelsea (1) x Malmö (0) </h3>
+<h3> 	Wolfsburg (2) x RB Salzburg (1) </h3>
+
+<h2> Jogos das 17:00. </h2>
+<h3> 	Villarreal (2) x Young Boys (0) </h3>
+<h3> 	Juventus (4) x 	Zenit (2) </h3>
+
+
+
+
+
 ```
 
 Para mais resultados [Champions League](https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/).
