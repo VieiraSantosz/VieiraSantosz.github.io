@@ -22,7 +22,7 @@ Real Madrid (2) x Shakhtar Donetsk (1)
 Milan (1) x Porto (1)
 Sporting (4) x Besiktas (0)
 Ajax (3) x Borussia (1)
-Internazionale (3) x 	Sheriff (1)
+Internazionale (3) x Sheriff (1)
 Manchester City (4) x Club Brugge (0)
 Paris Saint-Germain (2) x RB Leipzig (2)
 ```
